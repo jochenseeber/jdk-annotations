@@ -1,0 +1,13 @@
+class java/lang/String
+replace
+ (CC)Ljava/lang/String;
+ (CC)L1java/lang/String;
+replaceAll
+ (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;Ljava/lang/String;)L1java/lang/String;
+replaceFirst
+ (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+ (Ljava/lang/String;Ljava/lang/String;)L1java/lang/String;
+toLowerCase
+ ()Ljava/lang/String;
+ ()L1java/lang/String;

@@ -1,0 +1,10 @@
+class java/lang/reflect/Method
+getAnnotation
+ <T::Ljava/lang/annotation/Annotation;>(Ljava/lang/Class<TT;>;)TT;
+ <T::Ljava/lang/annotation/Annotation;>(Ljava/lang/Class<TT;>;)T0T;
+getReturnType
+ ()Ljava/lang/Class<*>;
+ ()L1java/lang/Class<*>;
+invoke
+ (Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;
+ (L0java/lang/Object;[Ljava/lang/Object;)L0java/lang/Object;

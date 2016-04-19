@@ -1,0 +1,7 @@
+class org/w3c/dom/Document
+createAttribute
+ (Ljava/lang/String;)Lorg/w3c/dom/Attr;
+ (Ljava/lang/String;)L1org/w3c/dom/Attr;
+createElement
+ (Ljava/lang/String;)Lorg/w3c/dom/Element;
+ (Ljava/lang/String;)L1org/w3c/dom/Element;
