@@ -13,5 +13,5 @@ To build the annotations JAR, run
 gradle build
 ```
 
-This will create the file `jdk-annotations-1.8.0-r.1.jar`. Attach this file to the
+This will create the file `jdk-annotations-1.8.0-r.2.jar`. Attach this file to the
 Java Development Kit (JDK) library entry in your build path to have Eclipse use the annotations.
