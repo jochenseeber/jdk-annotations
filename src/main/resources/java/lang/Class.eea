@@ -23,3 +23,6 @@ getSuperclass
 isAssignableFrom
  (Ljava/lang/Class<*>;)Z
  (L1java/lang/Class<*>;)Z
+newInstance
+ ()TT;
+ ()T1T;
